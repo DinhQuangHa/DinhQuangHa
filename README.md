@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DinhQuangHa
-- 👀 I’m interested in ASP.NET
-- 🌱 I’m currently learning ASP.NET
+- 👀 I’m interested in ASP.NET, ...
+- 🌱 I’m currently learning ASP.NET, ...
 - 💞️ I’m looking to collaborate on ASP.NET
 
 <!---
